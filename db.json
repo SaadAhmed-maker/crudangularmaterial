@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 620,
+      "comment": "IDK",
+      "date": "2022-04-20T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 400,
+      "comment": "IDK",
+      "date": "2022-04-06T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "asd",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 45,
+      "comment": "asd",
+      "date": "2022-04-03T18:30:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
